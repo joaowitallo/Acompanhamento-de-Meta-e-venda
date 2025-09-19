@@ -8,16 +8,17 @@ O relatório foi construído a partir de dados extraídos do **ERP da empresa**,
 ## 📷 Visualizações
 
 ### Visão Geral
-![Relatório Geral](./FotoGeral.png)
+![Relatório Geral](./RelatórioGeral.png)
 
 ### Exemplo com Filtros
-![Relatório com Filtros](./FotoFiltro.png)
+![Relatório com Filtros](./RelatórioFiltro.png)
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-- **Power BI Desktop** para desenvolvimento do relatório  
-- **Tratamento e modelagem de dados** a partir de informações extraídas do ERP da empresa  
+- **Excel** para tratamento inicial de dados  
+- **Power Query** para transformação e consolidação  
+- **Power BI Desktop** para modelagem, criação de medidas e visualização a  
 
 ---
 
@@ -29,5 +30,10 @@ Apresentar uma visão consolidada e interativa, possibilitando:
 
 ---
 
-## 🔒 Observação
-Os dados utilizados neste relatório foram substituídos ou omitidos para preservação de informações internas.
+## 💡 Experiência Aplicada
+Na construção deste relatório, foram aplicados conhecimentos de:  
+- **Tratamento e limpeza de dados** (Excel e Power Query)  
+- **Modelagem de dados** no Power BI  
+- **Criação de medidas em DAX** para cálculos personalizados  
+- **Design de dashboards** com foco em clareza e usabilidade  
+- **Análise de indicadores de desempenho** para apoio à gestão  
